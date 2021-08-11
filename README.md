@@ -7,5 +7,5 @@ Os cálculos, embora simples, podem gerar equívocos, pois são necessárias vá
 
 O relatório pode ser acessado [aqui](https://www.aguas.sc.gov.br/jsmallfib_top/DHRI/Legislacao/estudo_de_regionalizacao_hidrologica.pdf).
 
-A aplicação está disponível [neste link](https://rech.shinyapps.io/regionalizacao-sc/), e pode ser acessada diretamente no RStudio pelo comando `runGitHub()`
+A aplicação está disponível [neste link](https://rech.shinyapps.io/regionalizacao-sc/).
 
