@@ -1,4 +1,6 @@
-# Regionalização Hidrológica do Estado de Santa Catarina
+# Regionalização de Vazões do Estado de Santa Catarina
+
+## Apresentação
 Santa Catarina possui um estudo hidrológico datado de 2006, cujo objetivo foi a regionalização das vazões no estado.
 
 Por meio da análise de dados pluviométricos e fluviométricos, o referido estudo construiu uma série de equações que relacionam as vazões em corpos hídricos com suas respectivas áreas de drenagem e precipitações médias anuais. Também foram definidos coeficientes que permitem a obtenção de curvas de permanência e outras informações relevantes no que diz respeito aos estudos hidrológicos.
