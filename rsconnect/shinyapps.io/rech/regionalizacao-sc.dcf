@@ -1,0 +1,13 @@
+name: regionalizacao-sc
+title: regionalizacao-sc
+username:
+account: rech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4469469
+bundleId: 4907369
+url: https://rech.shinyapps.io/regionalizacao-sc/
+when: 1628597522.73803
+lastSyncTime: 1628597522.73803
+asMultiple: FALSE
+asStatic: FALSE
